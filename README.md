@@ -14,3 +14,7 @@ Updated name and start script in package.json file to facilitate heroku builds.
 ### 2020.05.16_2050
 
 Successfully connected to Heroku, and troubleshooted post-build issues in 'package.json'.  Set up app folder structure.  Added reference folder.  Added logo pngs to public folder.
+
+### 2020.05.16_2130
+
+Added and completed first pass of "index.js" files to Col and Container Component folders.  Began first pass of "app.js" in src folder.  Added comments to each file, and then commented out code relating to serviceWorker for now.
