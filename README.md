@@ -18,3 +18,7 @@ Successfully connected to Heroku, and troubleshooted post-build issues in 'packa
 ### 2020.05.16_2130
 
 Added and completed first pass of 'index.js' files to Col and Container Component folders.  Began first pass of 'app.js' in src folder.  Added comments to each file, and then commented out code relating to serviceWorker for now.
+
+### 2020.05.16_2142
+
+Corrected the className of container in 'Container' component, and added 'style.css' to the Container component folder.
