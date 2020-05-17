@@ -67,7 +67,7 @@ class App extends React.Component {
   render() {
     return (
       <Container>
-        <div className = "container">
+        {/* <div className = "container"> */}
           <div className = "row">
             <Col size = "md-4">
               <h2>Employee Directory</h2>
@@ -106,7 +106,7 @@ class App extends React.Component {
               </table>
             </Col>
           </div>   
-        </div>
+        {/* </div> */}
     </Container>
     );
   };
