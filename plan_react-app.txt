@@ -1,0 +1,26 @@
+necessary requirements:
+
+- a "/" webbage for users to land on.
+
+- a random user generation api (axios).
+
+- a table that displays generated users.
+
+- button for sorting users by category.
+
+- a text field and button for filtering users by property.
+
+
+Components:
+
+- root
+   - header
+      - title
+      - subtitle
+   - input for filter
+   - table 
+      - 5 category button(s)
+      - cards
+
+
+
