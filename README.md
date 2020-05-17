@@ -22,3 +22,7 @@ Added and completed first pass of 'index.js' files to Col and Container Componen
 ### 2020.05.16_2142
 
 Corrected the className of container in 'Container' component, and added 'style.css' to the Container component folder.
+
+### 2020.05.16_2257
+
+Completed first pass of 'index.js' in folder 'employeeCard'. Began first pass of 'index.js' in folder 'inputFilter'.

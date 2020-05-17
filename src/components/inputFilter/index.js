@@ -1,0 +1,26 @@
+//DEPENDENCIES
+import React from "react";
+
+function InputFilter(props) {
+    return (
+        <form>
+            <div className = "form-group">
+                <label htmlFor = "search"></label>
+                <input
+                    className = "form-control"
+                    onChange = ""
+                    name = "search"
+                    type = "text"
+                    value = {props.vale}
+                    placeholder = "Search by Employee Name"
+                    id = "search"
+                />
+                <button className = "btn btn-primary" onClick = "">Search</button>
+                <button className = "btn btn-primary" onClick = {props.refreshPage}>Reset</button>
+                <br />
+            </div>
+        </form>
+    );
+};
+
+export default InputFilter;
