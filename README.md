@@ -26,3 +26,7 @@ Corrected the className of container in 'Container' component, and added 'style.
 ### 2020.05.16_2257
 
 Completed first pass of 'index.js' in folder 'employeeCard'. Began first pass of 'index.js' in folder 'inputFilter'.
+
+### 2020.05.16_2329
+
+Completed first pass of 'index.js' in folder 'inputFilter'. completed first pass of 'app.js' in 'src' folder.  Added 'style.css' to inputFilter component folder.
