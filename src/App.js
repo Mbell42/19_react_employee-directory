@@ -69,7 +69,7 @@ class App extends React.Component {
       <Container>
         <div className = "container">
           <div className = "row">
-            <Col size = "md-3">
+            <Col size = "md-4">
               <h2>Employee Directory</h2>
               <InputFilter
               value = {this.state.search}
