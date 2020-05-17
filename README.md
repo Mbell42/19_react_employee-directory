@@ -6,3 +6,7 @@ For this homework, I will create an employee directory using React.  This homewo
 ### 2020.05.16_1825
 
 Initial Commit.  Created react app and linked remote to github repo.  I then created 'plan_react-app.txt'.
+
+### 2020.05.16_1905
+
+Updated name and start script in package.json file to facilitate heroku builds.
