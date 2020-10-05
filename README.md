@@ -1,5 +1,12 @@
 # 19_react_employee-directory
+
+## Description
+
 For this homework, I will create an employee directory using React.  This homework will require me to break up the application's UI into components, manage component state, as well as respond to user events.
+
+## Deployed App
+
+[react_employee_directory](https://react-employee-directory-hw-19.herokuapp.com/ "Deployed App on Heroku")
 
 ## Progress
 
