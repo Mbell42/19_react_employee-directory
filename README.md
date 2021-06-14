@@ -1,4 +1,4 @@
-# 19_react_employee-directory
+# UCSD-CodeBootCamp-19_react_employee-directory
 
 ## Description
 
